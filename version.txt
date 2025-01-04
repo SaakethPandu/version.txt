@@ -1,4 +1,4 @@
-Current Version: 1.0.0
+Current Version: 1.1.0
 Download Link: https://github.com/YourUsername/YourRepo/releases/download/v1.0.0/BS_NotePad_v1.0.0.exe
 Last Update: January 4, 2025
 Changelog:
