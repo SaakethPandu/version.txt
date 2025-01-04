@@ -1,9 +1,2 @@
-Current Version: 1.1.0
-Download Link: https://github.com/YourUsername/YourRepo/releases/download/v1.0.0/BS_NotePad_v1.0.0.exe
-Last Update: January 4, 2025
-Changelog:
-- Initial release of BS Note Pad.
-- Basic Notepad features with text editing, saving, and dark mode.
-- Added loading screen and update check functionality.
-
-Please visit the repository for the latest updates.
+Current Version: 1.0.1
+Download Link: https://example.com/download/latest_version.zip
